@@ -1,6 +1,7 @@
 #  Dashboard do Recursos Humanos DATAB
  
- 
+ ![banner-rh](https://user-images.githubusercontent.com/82332461/140792650-a82c40eb-e4f4-4d1a-bc3b-53ae333ac3f4.jpg)
+
 
 # Sobre
 O setor de recursos humanos da empresa precisa melhorar a forma de analisar os dados gerais dos colaboradores, como admissões, demissões, folha salarial, headcount, salário médio e absenteísmo.
